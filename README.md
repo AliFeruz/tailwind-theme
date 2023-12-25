@@ -1,5 +1,10 @@
 # React + TypeScript + Vite
 
+
+Explore the impact of clean architecture principles in theming — including how it influences and impacts web applications. We’ll focus on using CSS variables in Tailwind CSS to make theming easy to maintain.
+
+SRC of this project: https://www.sitepoint.com/theming-tailwind-css-variables-clean-architecture/#understandingcleanarchitectureintheming
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
